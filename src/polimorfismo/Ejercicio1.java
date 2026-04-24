@@ -1,8 +1,6 @@
 package polimorfismo;
 
 
-
-
 class Animal {
 
  public void hacerSonido() {
